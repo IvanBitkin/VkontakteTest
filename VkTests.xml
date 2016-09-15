@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="VkTests">
+	<test name="VkTests">
+		<classes>
+			<class name="com.web.tests.VkontakteTest" />
+			 <class name="com.web.tests.MyPageVkTest"/> 
+		</classes>
+	</test>
+</suite>  	
+
